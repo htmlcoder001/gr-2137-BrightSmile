@@ -64,7 +64,7 @@ body {
 }
 
 .theme-headline {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 50px;
@@ -93,7 +93,7 @@ body {
   max-width: 1280px;
 }
 .intro-wrapper__title {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 70px;
@@ -109,7 +109,7 @@ body {
   line-height: 85px;
 }
 .intro-wrapper__text {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 35px;
@@ -197,18 +197,18 @@ body {
   padding: 0 16px 24px 16px;
 }
 .reviews-info__general {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
+  margin-bottom: 4px;
   text-align: left;
   display: block;
   color: #FFFFFF;
-  margin-bottom: 6px;
 }
 .reviews-info__text {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: italic;
   font-weight: 500;
   font-size: 10px;
@@ -310,7 +310,7 @@ body {
   bottom: -35px;
 }
 .why-item__text {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -367,7 +367,7 @@ body {
   margin-right: auto;
 }
 .how-item__text {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -393,7 +393,7 @@ body {
 
 }
 .faq-item__question {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -450,7 +450,7 @@ body {
 .faq-item__answer {
   padding: 0 100px;
   
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
@@ -507,7 +507,7 @@ body {
   margin-bottom: 16px;
 }
 .cta-content__text {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 40px;
@@ -538,7 +538,7 @@ body {
   box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 70px;
   
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -578,7 +578,7 @@ body {
   max-width: 630px;
 }
 .text-content__headline {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 30px;
@@ -592,7 +592,7 @@ body {
   display: block;
 }
 .text-content__text {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -627,12 +627,12 @@ body {
   max-width: 500px;
 }
 .about-content__text {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
   line-height: 34px;
-
+  
   color: #000000;
 }
 
@@ -661,7 +661,7 @@ body {
   margin-bottom: 16px;
 }
 .features-item__title {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -672,7 +672,7 @@ body {
   margin-bottom: 4px;
 }
 .features-item__text {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 24px;
@@ -696,8 +696,8 @@ body {
   margin-bottom: 16px;
 }
 .work-wrapper__text {
-
-  font-family: 'Montserrat';
+  
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
@@ -722,7 +722,7 @@ body {
   border-radius: 5px;
   max-width: 546px;
   
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -746,7 +746,7 @@ body {
 }
 .expert-wrapper__text {
   
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -775,7 +775,7 @@ body {
 }
 .expert-content__head {
   
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: italic;
   font-weight: 700;
   font-size: 24px;
@@ -787,7 +787,7 @@ body {
 }
 .expert-content__text {
   
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -817,8 +817,8 @@ body {
   justify-content: space-between;
 }
 .conclusion-box__text {
-
-  font-family: 'Montserrat';
+  
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -835,7 +835,7 @@ body {
 
 /* Else */
 .logo-shine {
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 50px;
