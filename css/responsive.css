@@ -455,4 +455,8 @@
   .why-wrapper__box {
     height: 720px;
   }
+  .intro-wrapper__title, .intro-wrapper__title > span {
+    font-size: 26px;
+    line-height: 32px;
+  }
 }
