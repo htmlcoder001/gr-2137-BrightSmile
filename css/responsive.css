@@ -45,7 +45,7 @@
     line-height: 75px;
   }
   .intro-wrapper__title {
-    max-width: 550px;
+    max-width: 650px;
   }
   .intro-wrapper__button {
     margin-left: 0;
@@ -213,6 +213,11 @@
     padding-bottom: 80px;
   }
   
+  .intro-wrapper__title {
+    font-size: 55px;
+    line-height: 70px;
+  }
+  
   .section-why {
     background-image: url(../img/why-banner_mobile.jpg);
     height: 1160px;
@@ -302,7 +307,7 @@
   }
   
   .intro-wrapper__title {
-    max-width: 285px;
+    max-width: 315px;
     margin-bottom: 16px;
   }
   .intro-wrapper__title,
